@@ -1,0 +1,13 @@
+headquarters tacticalRoom 1
+headquarters parking#1 1
+headquarters parking#2 1
+parking#1 parking#2 1
+parking#1 draftOffice 1
+parking#1 barracks 1
+parking#2 parking#3 1
+draftOffice barracks 1
+barracks warehouse 1
+barracks headquarters 1
+tacticalRoom secretControl 1
+secretControl alienResearchFacility 1
+alienResearchFacility flyingSaucerHangar 1
